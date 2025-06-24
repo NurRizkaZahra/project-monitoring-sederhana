@@ -21,13 +21,13 @@ Politeknik Hasnur
 - Laravel File Storage
 
 ### 📋 Daftar Project
-![Daftar Project](screenshots/daftar_project.png)
+![Daftar Project](public/screenshots/daftar_project.png)
 
 ### ➕ Tambah Project
-![Tambah Project](screenshots/tambah_project.png)
+![Tambah Project](public/screenshots/tambah_project.png)
 
 ### ✏️ Edit Project
-![Edit Project](screenshots/edit_project.png)
+![Edit Project](public/screenshots/edit_project.png)
 
 ## 🚀 Cara Menjalankan Project (Lokal)
 ```bash
