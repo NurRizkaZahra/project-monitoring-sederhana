@@ -15,7 +15,7 @@ Politeknik Hasnur
 - Tanpa login (langsung akses)
 
 ## 🛠️ Teknologi yang Digunakan
-- Laravel 10
+- Laravel 11
 - MySQL
 - Tailwind CSS
 - Laravel File Storage
